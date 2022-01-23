@@ -1,2 +1,2 @@
 # cpp_solution
-this repo consists of most coding questions with their solutions in c++.
+this repo consists of most common coding questions with their solutions in c++.
